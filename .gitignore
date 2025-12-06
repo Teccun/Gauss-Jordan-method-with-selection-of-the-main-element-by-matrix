@@ -1,0 +1,30 @@
+# Build results
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+[Aa][Rr][Mm]/
+[Bb]in/
+[Oo]bj/
+
+# Visual Studio cache
+.vs/
+*.VC.db
+*.opendb
+
+# User-specific files
+*.user
+*.rsuser
+
+# Compiled files
+*.exe
+*.dll
+*.pdb
+*.ilk
+*.obj
+*.iobj
+*.ipdb
+
+# Logs
+*.log
+*.tlog
